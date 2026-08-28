@@ -1,4 +1,4 @@
-# Tablet PC Controller
+# TabPilot
 
 **Work in progress.** An Android tablet controller with an AMOLED-friendly interface and S Pen-aware interaction options. It sends keyboard and mouse commands to a Windows PC over an ADB reverse tunnel.
 
